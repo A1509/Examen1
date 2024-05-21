@@ -1,0 +1,21 @@
+JSON:
+
+http://localhost:8082/a/usuario
+{
+    "nombre":"pablo",
+  "correo":"pablo@gmail.com",
+  "password":"holamundo2",
+"rol": {
+        "id": 1
+    }
+}
+
+
+
+http://localhost:8082/roles
+
+{
+
+ "rol": "alexisrol",
+      "activo": true
+    }
